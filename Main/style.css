@@ -1,0 +1,47 @@
+html {
+  background: url(img/background.avif) no-repeat center fixed;
+  background-size: cover;
+}
+
+table,
+th,
+td {
+  border: 1px solid white;
+  text-align: center;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  background-color: rgba(35, 22, 73, 0.8);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: aliceblue;
+  border: solid white;
+  width: 1200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: solid black;
+}
+
+button:hover {
+  background-color: aliceblue;
+  color: black;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  background-color: aliceblue;
+  color: black;
+}
